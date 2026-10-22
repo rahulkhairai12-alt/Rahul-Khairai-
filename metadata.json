@@ -1,0 +1,7 @@
+{
+  "name": "Temple Escape: Jungle Runner 3D",
+  "description": "An action-packed 3D endless runner through ancient jungle ruins with deadly obstacles, gold coins, exciting power-ups, and dramatic crying wipeouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
